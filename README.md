@@ -1,6 +1,6 @@
 # technical-hw-1
 
-capstone one technical hw 1
+capstone one technical hw
 
 
 
@@ -8,3 +8,4 @@ capstone one technical hw 1
 
 hello world!
 
+new changes!
